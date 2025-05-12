@@ -1,12 +1,11 @@
-# 🔫 Vampire Survivor – Top-Down Shooter Game
+# 🔫 End Of The World – Top-Down Shooter Game
 
 A 2D **top-down shooter game** built with **Pygame**, featuring intense combat, enemy waves, and a powerful gun.  
 You're the last survivor in a world full of monsters... survive as long as you can!
 
 ---
 
-![Game Screenshot](https://raw.githubusercontent.com/YourUsername/RepoName/main/screenshot.png)
-![Game Screenshot](https://raw.githubusercontent.com/YourUsername/RepoName/main/screenshot.png)
+![Game Screenshot](https://github.com/Zeyad97/TopDownShooter-PyGame/blob/main/Screenshot%20(399).png) - ![Game Screenshot](https://github.com/Zeyad97/TopDownShooter-PyGame/blob/main/Screenshot%20(400).png)
 
 ---
 
