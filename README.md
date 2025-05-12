@@ -12,7 +12,7 @@ You're the last survivor in a world full of monsters... survive as long as you c
 
 ## 🕹️ Gameplay
 You control a lone fighter armed with a massive gun in a dark, monster-filled arena.  
-Enemies spawn in waves — dodge, shoot, survive.
+Enemies spawn in waves — shoot, survive.
 
 ---
 
@@ -20,7 +20,6 @@ Enemies spawn in waves — dodge, shoot, survive.
 - Smooth top-down movement
 - Shooting system with bullet effects
 - Enemy AI: follow, attack, and chase player
-- Health system and player death
 - Sound effects and animations
 - Wave-based difficulty increase
 
